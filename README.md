@@ -1,6 +1,6 @@
 ![Business Prediction](https://github.com/user-attachments/assets/c39c98fb-2ef0-4eb3-a38c-624a5f655029)
 
-> Predict the future of businesses.
+> Predict the future of businesses and industries.
 
 [Business Prediction] was built to provide insightful and data-driven predictions about the future of various businesses and industries. Its primary function is to analyze current trends, market data, and other relevant information to offer educated forecasts regarding the potential directions and developments in the business world. By leveraging its analytical capabilities, this GPT aims to help users make informed decisions based on observable data and logical reasoning.
 
